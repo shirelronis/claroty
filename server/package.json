@@ -1,21 +1,21 @@
 {
   "name": "server",
   "version": "0.0.0",
-  "description": "RENTD server-side",
+  "description": "Cymulate server-side",
   "main": "src/index.js",
   "scripts": {
     "start": "node ./src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eden1999/RENTD.git"
+    "url": "git+https://github.com/shirelronis/claroty.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Eden1999/RENTD/issues"
+    "url": "https://github.com/shirelronis/claroty/issues"
   },
-  "homepage": "https://github.com/Eden1999/RENTD#readme",
+  "homepage": "https://github.com/shirelronis/claroty#readme",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "bcrypt": "^5.0.1",
